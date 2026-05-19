@@ -4,13 +4,13 @@
 
 ## Table of Content
 
-* [Project Overview](#Project_Overview)
-* [Tools Used](#Tools_Used)
-* [Dataset Information](#Dataset_Information)
-* [Business Problems & Analysis](#Business_Problems_&_Analysis)
-* [Key Insights](#Key_Insights)
-* [Skills Demonstrated](#Skills_Demonstrated)
-* [Conclusion](#Conclusion)
+* [Project Overview](#project-overview)
+* [Tools Used](#tools-used)
+* [Dataset Information](#dataset-information)
+* [Business Problems & Analysis](#business-problems--analysis)
+* [Key Insights](#key-insights)
+* [Skills Demonstrated](#skills-demonstrated)
+* [Conclusion](#conclusion)
 
 ---
 
