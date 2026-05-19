@@ -15,7 +15,7 @@ This project also demonstrates the practical use of various SQL concepts such as
 
 ---
 
-# 📂 Dataset Information
+# 📂 [Dataset Information](https://raw.githubusercontent.com/amnbl109/pizza-sales-sql-analysis/refs/heads/main/pizza_sales.csv)
 
 The dataset contains transactional sales records of a pizza store, including:
 
