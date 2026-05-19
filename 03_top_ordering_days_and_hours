@@ -1,0 +1,12 @@
+USE sql_project_01;
+
+SELECT 
+    DAYNAME(order_date) AS day_name,
+    HOUR(order_time) AS order_hour,
+    COUNT(DISTINCT order_id) AS total_orders
+FROM pizza_sales
+GROUP BY 
+    day_name,
+    order_hour
+ORDER BY total_orders DESC
+;
