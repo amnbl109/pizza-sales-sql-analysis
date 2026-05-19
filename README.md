@@ -4,7 +4,7 @@
 
 ## Table of Content
 
-* [Project Overview](#📌_Project_Overview)
+* [Project Overview](#Project_Overview)
 * [Tools Used](#Tools_Used)
 * [Dataset Information](#Dataset_Information)
 * [Business Problems & Analysis](#Business_Problems_&_Analysis)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Project Overview
+##Project Overview
 
 In this project, I analyzed a pizza sales dataset using SQL to extract meaningful business insights related to sales performance, customer ordering behavior, and revenue trends. The analysis focuses on identifying top-performing pizzas, peak order timings, category-wise revenue contribution, and high-value customer orders.
 
