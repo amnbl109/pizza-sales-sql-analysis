@@ -1,0 +1,20 @@
+USE sql_project_01;
+
+SELECT 
+    order_id,
+    SUM(total_price) AS order_total
+FROM pizza_sales
+GROUP BY order_id
+HAVING order_total > (
+    SELECT 
+        AVG(order_total)
+    FROM (
+        SELECT 
+            order_id,
+            SUM(total_price) AS order_total
+        FROM pizza_sales
+        GROUP BY order_id
+    ) AS avg_orders
+)
+ORDER BY order_total DESC
+;
