@@ -7,6 +7,7 @@
 * [Project Overview](#project-overview)
 * [Tools Used](#tools-used)
 * [Dataset Information](#dataset-information)
+* [Key KPIs](#key-kpis)
 * [Business Problems & Analysis](#business-problems--analysis)
 * [Key Insights](#key-insights)
 * [Skills Demonstrated](#skills-demonstrated)
@@ -45,6 +46,15 @@ The dataset contains transactional sales records of a pizza store, including:
 * Pizza Category
 * Pizza Ingredients
 * Pizza Name
+
+---
+
+## Key KPIs
+
+- Total Revenue: $817,860.05
+- Total Orders: 21,350
+- Total Pizzas Sold: 49,574
+- Average Order Value: $38.31
 
 ---
 
