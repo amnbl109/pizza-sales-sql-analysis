@@ -14,7 +14,7 @@
 
 ---
 
-##Project Overview
+## Project Overview
 
 In this project, I analyzed a pizza sales dataset using SQL to extract meaningful business insights related to sales performance, customer ordering behavior, and revenue trends. The analysis focuses on identifying top-performing pizzas, peak order timings, category-wise revenue contribution, and high-value customer orders.
 
@@ -22,14 +22,14 @@ This project also demonstrates the practical use of various SQL concepts such as
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * MySQL
 * SQL Workbench
 
 ---
 
-## 📂 [Dataset Information](https://raw.githubusercontent.com/amnbl109/pizza-sales-sql-analysis/refs/heads/main/pizza_sales.csv)
+## [Dataset Information](https://raw.githubusercontent.com/amnbl109/pizza-sales-sql-analysis/refs/heads/main/pizza_sales.csv)
 
 The dataset contains transactional sales records of a pizza store, including:
 
@@ -48,7 +48,7 @@ The dataset contains transactional sales records of a pizza store, including:
 
 ---
 
-## 📊 Business Problems & Analysis
+## Business Problems & Analysis
 
 ### [1. Top 5 Highest Revenue-Generating Pizzas](02_top_5_pizzas_by_revenue)
 
@@ -114,7 +114,7 @@ Ranked pizzas within each category based on the total revenue generated to ident
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Identified the pizzas generating the highest revenue
 * Found the busiest ordering days and peak business hours
@@ -124,7 +124,7 @@ Ranked pizzas within each category based on the total revenue generated to ident
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * SQL Data Analysis
 * Data Aggregation & Filtering
@@ -135,6 +135,6 @@ Ranked pizzas within each category based on the total revenue generated to ident
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how SQL can be used to analyze transactional data and convert it into meaningful business insights that can support decision-making and performance analysis.
